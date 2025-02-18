@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Abel Blog"
+  text: "Software Architecture in the AI Era"
+  tagline: 领域驱动设计，软件架构，微服务，分布式，高并发，高可用，高扩展，高性能，高安全
   actions:
     - theme: brand
       text: Markdown Examples
